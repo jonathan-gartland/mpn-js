@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/jonathan-gartland/mpn-js/issues"
   },
-  "homepage": "https://github.com/jonathan-gartland/mpn-js#readme"
+  "homepage": "https://github.com/jonathan-gartland/mpn-js#readme",
+  "dependencies": {
+    "@jest/globals": "^29.3.1",
+    "jest": "^29.3.1"
+  }
 }
