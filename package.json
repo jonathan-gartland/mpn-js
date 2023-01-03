@@ -1,0 +1,24 @@
+{
+  "name": "mpn-lookup",
+  "version": "1.0.0",
+  "description": "simple function to provide the mpn for QT tool so user doesn't have to look up value in 20 page PDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathan-gartland/mpn-js.git"
+  },
+  "keywords": [
+    "tray",
+    "mpn",
+    "quanti"
+  ],
+  "author": "jonathan gartland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathan-gartland/mpn-js/issues"
+  },
+  "homepage": "https://github.com/jonathan-gartland/mpn-js#readme"
+}
